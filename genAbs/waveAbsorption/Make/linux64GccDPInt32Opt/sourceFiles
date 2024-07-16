@@ -1,0 +1,5 @@
+SOURCE = \
+2DWaveAbsorptionVelocity/waveAbsorptionVelocity2DFvPatchVectorField.C \
+3DWaveAbsorptionVelocity/waveAbsorptionVelocity3DFvPatchVectorField.C \
+
+# sources

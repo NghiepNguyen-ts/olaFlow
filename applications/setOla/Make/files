@@ -1,0 +1,4 @@
+setOla.C
+common/waveFun.C
+
+EXE = $(FOAM_APPBIN)/setOla

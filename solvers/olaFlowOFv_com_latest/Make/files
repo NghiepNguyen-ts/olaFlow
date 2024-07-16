@@ -1,0 +1,3 @@
+olaFlow.C
+
+EXE = $(FOAM_APPBIN)/olaFlow
